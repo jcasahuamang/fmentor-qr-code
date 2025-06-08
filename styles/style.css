@@ -7,7 +7,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: 'Outfit';
+    font-family: 'Outfit',Arial, Helvetica, sans-serif;
 }
 
 .qr-code-container{
